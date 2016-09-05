@@ -26,6 +26,10 @@
   height: 50px;
 }
 
+#devconf-logo {
+  max-width: 100%;
+}
+
 .code {
   font-weight: 600;
   margin-top: 50px;
