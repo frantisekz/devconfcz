@@ -22,6 +22,10 @@
   font-size: 1.5em;
 }
 
+.social li {
+  height: 50px;
+}
+
 @media (max-width: 991px) {
     .top-branding {
       left: 60%;
