@@ -26,6 +26,11 @@
   height: 50px;
 }
 
+.code {
+  font-weight: 600;
+  margin-top: 50px;
+}
+
 @media (max-width: 991px) {
     .top-branding {
       left: 60%;
